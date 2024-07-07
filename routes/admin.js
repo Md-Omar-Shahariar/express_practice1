@@ -21,4 +21,4 @@ router.post("/add-product", (req, res, next) => {
 });
 
 exports.route = router;
-exports.product = products;
+exports.products = products;
